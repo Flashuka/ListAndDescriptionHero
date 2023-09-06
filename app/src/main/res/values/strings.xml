@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListAndDescriptionHero</string>
+    <string name="name">Name</string>
+    <string name="deskripsi_pahlawan">Deskripsi Pahlawan</string>
+</resources>
